@@ -8,7 +8,7 @@ A simple full-stack CRUD application for managing hotel records, built with:
 
 ## 📸 Screenshot
 
-![App Screenshot](image.png)
+![App Screenshot](https://github.com/Niyazahamadmulla/FLUTTER-HOTEL-MANAGEMENT/blob/main/WhatsApp%20Image%202026-07-26%20at%203.30.58%20PM.jpeg)
 
 > Place your `image.png` screenshot in the same folder as this README so it renders correctly.
 
